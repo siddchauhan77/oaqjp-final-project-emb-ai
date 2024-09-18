@@ -12,7 +12,7 @@ Emotion detection goes beyond sentiment analysis by extracting more nuanced emot
 To successfully complete this project, you will need to perform the following tasks:
 
 ### Task 1: Clone the Project Repository
-Start by cloning the project repository to your local environment. This will provide you with the necessary code and resources to begin your work. this is the original project link: https://github.com/ibm-developer-skills-network/oaqjp-final-project-emb-ai.git but I have cloned it on my local machine and pushed it again on new repo for a purpose of using it in the Cloud IDE this the link: for my own repo
+Start by cloning the project repository to your local environment. This will provide you with the necessary code and resources to begin your work. this is the original project link: https://github.com/ibm-developer-skills-network/oaqjp-final-project-emb-ai.git but I have cloned it on my local machine and pushed it again on new repo for a purpose of using it in the Cloud IDE this the link: https://github.com/siddchauhan77/oaqjp-final-project-emb-ai
 
 ### Task 2: Create an Emotion Detection Application
 Utilize the Watson NLP library to develop an emotion detection application. This application will analyze text input and identify the underlying emotions.
